@@ -1,0 +1,4 @@
+C:/Users/pzd123/CLionProjects/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/pzd123/CLionProjects/test/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/pzd123/CLionProjects/test/cmake-build-debug/CMakeFiles/tree.dir
+C:/Users/pzd123/CLionProjects/test/cmake-build-debug/CMakeFiles/edit_cache.dir
